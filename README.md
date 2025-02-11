@@ -1,3 +1,5 @@
+<a href = ""> Home </a> | <a href = ""> AI </a> | <a href = ""> Python </a>  <a href = ""> Contact </a>
+
 
 ### Hi there,
 I am Pema, a self-taught Programmer/Developer, Data Analyst and Database enthusiast. I am now 
