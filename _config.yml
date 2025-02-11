@@ -1,0 +1,5 @@
+
+# _config.yml file manually created by Pema
+# added theme to support jeykyll theme for pages
+
+theme: jekyll-theme-minimal
